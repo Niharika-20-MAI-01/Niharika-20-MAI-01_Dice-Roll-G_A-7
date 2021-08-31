@@ -1,0 +1,50 @@
+body
+{
+    background-color: lightskyblue;
+}
+.diceroll
+{
+    border : solid;
+    border-radius: 2%;
+    padding: 2em;
+    background-color: lightsalmon;
+    color: darkblue;
+    width: fit-content;
+    margin: 10% auto;
+    box-shadow: 10px 10px rgb(238, 144, 167);
+}
+h1
+{
+    text-align: center;
+}
+.numb
+{
+    background-color: orange;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    border: none;
+    font-size: 2rem;
+    border-bottom: solid;
+    border-color: lightgoldenrodyellow;
+    color: black;
+    text-align: center;
+    width: 10%;
+}
+#res
+{
+    text-align: center;
+    font-size: 2rem;   
+}
+label
+{
+    text-align: center;
+    font-size: 2rem;
+}
+input[type="submit"]
+{
+    border: none;
+    background-color: green;
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+}
+
